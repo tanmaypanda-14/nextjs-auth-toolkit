@@ -1,0 +1,17 @@
+{
+  "sqltools.connections": [
+    {
+      "pgOptions": {
+        "ssl": true
+      },
+      "previewLimit": 50,
+      "server": "ep-hidden-flower-27280746.us-east-2.aws.neon.tech",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "nextjs-auth-toolkit",
+      "database": "app",
+      "username": "tanmay404103",
+      "password": "Wde4aLnSUy1u"
+    }
+  ]
+}
